@@ -1,0 +1,5 @@
+{
+  "name": "Fusion 360 Helmet Architect",
+  "description": "An AI-powered design assistant that converts specific cranial measurements into parametric Fusion 360 Python scripts for custom helmet creation.",
+  "requestFramePermissions": []
+}
